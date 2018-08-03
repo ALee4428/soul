@@ -7,7 +7,6 @@ var quotes = [
   '"Live as if you were to die tomorrow. Learn as if you were to live forever."  -Mahatma Gandhi',
   '"Courage is grace under pressure."  -Ernest Hemingway',
   '"Whoever is happy will make others happy too."  -Anne Frank',
-  '"I\'ve not failed. I\'ve just found 10,000 ways that don\'t work."  -Thomas Eddison'
 ]
 
 function newQuote(){
